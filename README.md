@@ -11,4 +11,4 @@ I create technical content on my [Blog](mugisha.hashnode.dev)
 - 📫 How to reach me micmug235@gmail.com
 - ⚡ Fun fact: If I like a song I listen to it until I'm fed up with it
 
-
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=mugisha23&show_icons=true" /></p>
