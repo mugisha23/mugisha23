@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**mugisha23/mugisha23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend developer and content creator 
 
-Here are some ideas to get you started:
+I create technical content on my [Blog](mugisha.hashnode.dev)
+<!-- - 🔭 I’m currently working on ...🤔 I’m looking for help with Finding an open-sou
+- 🌱 I’m currently learning ... -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on Open Source projects
+- 💬 Ask me about HTML, CSS, JavaScript, React
+- 📫 How to reach me micmug235@gmail.com
+- ⚡ Fun fact: If I like a song I listen to it until I'm fed up with it
+
+
