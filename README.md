@@ -2,7 +2,7 @@
 
 I'm a Frontend developer and content creator 
 
-I create technical content on my [Blog](mugisha.hashnode.dev) and [instagram](https://www.instagram.com/mugishacharbel)
+I create technical content on my [Blog](mugisha.hashnode.dev) and [instagram](https://www.instagram.com/mugishdev)
 <!-- - 🔭 I’m currently working on ...🤔 I’m looking for help with Finding an open-sou
 - 🌱 I’m currently learning ... -->
 
